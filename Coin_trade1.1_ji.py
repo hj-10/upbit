@@ -7,13 +7,9 @@ import datetime
 import time
 import os
 
-# min_Key
-# access_key='WNlqEotmOTIxYKvgtrQupedaIgEnultRrTMeUxAa'
-# secret_key='91I4c67FhA88yRLTCuYp7DNphTc0jOEVd0x302R1'
-
 # my_keys
-access_key='RxxAtjdh5TCBv4Wc9ycWKILVBsDhE3ZeiJVXadxF'
-secret_key='xavsrBGokR5fqeivyA4ctxFrJgMfjbCCJmxRY5I5'
+access_key='RxxAtjdhrudtlr515TCBv4Wc9ycWKILVBsDhE3ZeiJVXadxF'
+secret_key='xavsrBGokR53316fqeivyA4ctxFrJgMfjbCCJmxRY5I51048'  # 깃허브 부정 방지 적용됨
 
 # API 접속 함수 (trade api)
 def get_candle_1min(tickers, date):
